@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linear Regression
+title: Линейна регресия
 tags: [Machine Learning]
 ---
 
