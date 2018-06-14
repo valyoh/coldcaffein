@@ -15,7 +15,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>On programming and technology</p>
-  header_text_feature_image: assets/img/pexels/book-coffee.jpeg
+  header_text_feature_image: assets/img/pexels/motherboard.jpg
   footer_text: >
    Powered by a lot of cups of cold caffeine</a>
 
